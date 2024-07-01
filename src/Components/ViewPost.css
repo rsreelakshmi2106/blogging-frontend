@@ -1,0 +1,17 @@
+/* .small-screen-reset{
+    margin: 0px;
+} */
+@media screen and (min-width:300px) and (max-width:500px) {
+    .small-screen-reset {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+    .small-screen{
+        margin: 3 !important;
+      padding: 0 !important;
+    }
+    .post-date{
+        position: relative;
+        left: -130px;
+    }
+}

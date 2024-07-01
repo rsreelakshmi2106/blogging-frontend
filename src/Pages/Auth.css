@@ -1,0 +1,6 @@
+@media screen and (min-width:300px) and (max-width:500px){
+    .sign-in-up{
+        margin: 4px !important;
+        padding: 2px !important;
+    }
+}
